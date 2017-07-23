@@ -1,2 +1,2 @@
 # interview csharp
-programing interview practice for C#
+common programing interview practice for C#
